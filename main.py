@@ -10,5 +10,5 @@ print("Circumference of the circle is: " +str(C))
 
  #Caltulate the diameter of a circle
 
-diameter=2*radius
+diameter = 2* int(radius)
 print("diameter of the circle is: "+ str(diameter))
